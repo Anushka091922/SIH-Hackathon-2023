@@ -1,0 +1,48 @@
+
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh; /* Ensure the container takes at least the viewport height */
+}
+
+
+body{
+  display: flex;
+  justify-content: center;
+  background-color: skyblue;
+}
+
+h1{
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
+}
+.container{
+  flex-direction: column;
+ 
+  display: flex;
+  width: 800px;
+  height: 600px;
+  align-items: center;
+  justify-content: center;
+}
+
+table {
+
+  border: 2px solid black;
+  width: 800px;
+  height: 200px;
+  border-collapse: collapse;
+}
+
+th {
+  border-bottom: 1px solid black;
+  border-collapse: collapse;
+}
+
+td {
+  border: 1px solid black;
+  text-align: center;
+  border-collapse: collapse;
+}
