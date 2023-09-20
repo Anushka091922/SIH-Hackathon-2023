@@ -5,15 +5,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>FAQs</title>
-    <link rel="stylesheet" href="/static/FAQ.css">
+    <link rel="stylesheet" href="./static/FAQ.css">
 </head>
 <body>
-    <h1 id="heading">Frequently Asked Questions (FAQs)</h1>
+    <h1 id="heading">Frequently Asked Questions (FAQs) <a id="home" href="main.html">Home</a></h1>
     <!-- <img src="FAQ.jpg" alt="Img" id="img"> -->
     <ul id="accordion">
         <li>
             <label for="first">Where did the Constitution of India draw inspiration from?<span>&#x276F;</span></label>
-            <input type="radio" name="accordion" id="first" checked>
+            <input type="radio" name="accordion" id="first">
             <div class="content">
                 <p>
                     The Constitution of India has borrowed nearly 25 per cent from various other countries namely, the UK, the US, erstwhile USSR, Australia, Japan, South Africa, Canada, 
@@ -69,5 +69,20 @@
             </div>
         </li>
     </ul>
+    <script>
+        const accordionItems = document.querySelectorAll('#accordion li');
+        accordionItems.forEach((item) => {
+            const label = item.querySelector('label');
+            const content = item.querySelector('.content');
+    
+            label.addEventListener('click', () => {
+                if (content.style.maxHeight === '0px' || content.style.maxHeight === '') {
+                    content.style.maxHeight = content.scrollHeight + 'px';
+                } else {
+                    content.style.maxHeight = '0px';
+                }
+            });
+        });
+    </script>
 </body>
 </html>
