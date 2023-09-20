@@ -25,13 +25,3 @@ Make sure that people from all economic backgrounds can use your platform. It sh
  5.  How to ensure that the platform is accessible to citizens from all socio-economic backgrounds? Participants can consider various models for incentivizing legal service providers, such as offering them bonuses, rewards, or other forms of recognition for their services.
 
     
-### Advocates/Lawyers: 
-These are legal professionals who provide legal advice and representation in various legal matters.
-### Arbitrators: 
-Arbitrators help parties resolve disputes through a process called arbitration, making binding decisions.
-### Mediators: 
-Mediators facilitate communication and negotiation to help parties reach mutually acceptable solutions in disputes.
-### Notaries: 
-Notaries public authenticate signatures, administer oaths, and certify copies of documents.
-### Document Writers: 
-Document writers assist in drafting legal documents and contracts, ensuring their legal compliance.
