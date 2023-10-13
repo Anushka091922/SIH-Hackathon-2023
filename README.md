@@ -1,33 +1,34 @@
 # SMART INDIA HACKATHON
 
-## Problem Statement: Incentives based Design for onboarding Legal Service Providers such as Advocates, Arbitrators, Mediators, Notaries, Document Writers, etc on eMarket Place for extending Legal Services to Citizens in India.
+## Problem Statement:
+Incentives-based Design for Onboarding Legal Service Providers such as Advocates, Arbitrators, Mediators, Notaries, Document Writers, etc on eMarket Place for extending Legal Services to Citizens in India.
 
 ### Objective:
-Goal is to design a user-friendly and secure online platform that brings together legal professionals and people who need legal help.
+The goal is to design a user-friendly and secure online platform that brings together legal professionals and people who need legal help.
 
 ## Solution:
 ### Samvaad Legal Platform: Empowering Tier 2 and Tier 3 Cities
-In India, the legal service sector often operates in disarray, leaving many individuals in Tier 2 and Tier 3 cities and small communities struggling to access essential legal services. These regions face unique challenges in navigating administrative processes related to talathi karyalaya, mahanagarpalika, nagarpalika, and grampanchayat. To address these issues, the Samvaad Legal Platform has been meticulously crafted as a user-centric, comprehensive solution.
+In India, the legal service sector often operates in disarray, leaving many individuals in Tier 2 and Tier 3 cities and small communities struggling to access essential legal services. These regions face unique challenges in navigating administrative processes related to talathi karyalaya, mahanagarpalika, nagarpalika, and gram panchayat. The Samvaad Legal Platform has been meticulously crafted to address these issues as a user-centric, comprehensive solution.
 
-### 1.Key Features Of Samvaad:
-1] Comprehensive Legal Solutions: 
-Samvaad recognises the importance of expanding its legal offerings, with a particular focus on 2-tier and 3-tier cities
-The platform actively works to include essential government offices, to ensure users have access to comprehensive suite of legal services.
+### 1. Key Features Of Samvaad:
+1] Comprehensive Legal Solutions:
+Samvaad recognizes the importance of expanding its legal offerings, with a particular focus on 2-tier and 3-tier cities
+The platform actively works to include essential government offices to ensure users have access to a comprehensive suite of legal services.
 
-### 2]Inclusive Lawyer Registration: 
+### 2]Inclusive Lawyer Registration:
 Samvaad provides an inclusive platform where law firms and lawyers of all sizes can readily register and showcase their expertise.
-Actively encourage legal professionals to join,foster a diverse and skilled network of lawyers.
+Actively encourage legal professionals to join and foster a diverse and skilled network of lawyers.
 3]Enhanced Verification Process:
 Samvaad is implementing a stringent verification process that links lawyers to their government-issued ID numbers.
 This verification ensures that clients can trust the credibility and authenticity of the legal professionals they choose to work with.
 
 
-### 4]Robust Confidentiality Measures:
+### 4] Robust Confidentiality Measures:
 Samvaad places the utmost importance on maintaining case confidentiality.
 Our platform employs robust privacy measures to ensure that cases assigned to one lawyer remain confidential and inaccessible to others.
 
-### 5]Complete Government Entity Listings:
-Samvaad is actively working to include all government entities, such as talathi karyalaya, tahsil vibhag, municipality, and nagarpalika, in its listings.
+### 5] Complete Government Entity Listings:
+Samvaad is actively working to include all government entities, such as Talathi Karyalaya, tahsil vibhag, municipality, and nagarpalika, in its listings.
 This comprehensive coverage will simplify access to vital information and application forms related to city and village government operations, enhancing user convenience.
 
 
