@@ -1,6 +1,7 @@
 # SMART INDIA HACKATHON
 
-## Problem Statement: Incentives based Design for onboarding Legal Service Providers such as Advocates, Arbitrators, Mediators, Notaries, Document Writers, etc on eMarket Place for extending Legal Services to Citizens in India.
+## Problem Statement: 
+Incentives based Design for onboarding Legal Service Providers such as Advocates, Arbitrators, Mediators, Notaries, Document Writers, etc on eMarket Place for extending Legal Services to Citizens in India.
 
 ### Objective:
 Goal is to design a user-friendly and secure online platform that brings together legal professionals and people who need legal help.
