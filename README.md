@@ -54,11 +54,17 @@ Continuous Content Updates: Regularly update the platform's content to reflect c
 
 ## 5) Future Prospects - 
 The Samvaad Legal Platform has the potential to establish a solid presence and impact in Tier 2 and Tier 3 cities. Its future prospects may include expanded user adoption, partnerships with local governments, legal organizations, and technology enhancements. If it maintains its user-centric approach and addresses evolving needs effectively, it could become a sustainable and widely recognized solution for improving legal access in these regions.
-6) References:
+
+### 6) References:
+
 https://www.vc3.com/blog/why-is-a-municipal-website-so-valuable
+
 https://www.marketingmodo.com/municipality-needs-website/
+
 https://www.vc3.com/blog/why-is-a-municipal-website-so-valuable
+
 https://lgdirectory.gov.in/
+
 
 
 
