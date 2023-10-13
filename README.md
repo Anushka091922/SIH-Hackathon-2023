@@ -32,28 +32,28 @@ Samvaad is actively working to include all government entities, such as Talathi 
 This comprehensive coverage will simplify access to vital information and application forms related to city and village government operations, enhancing user convenience.
 
 
-## 2. Usefulness in tier 2/3 cities : 
+### 2. Usefulness in tier 2/3 cities : 
 Accessibility: Tier 2 and Tier 3 cities, as well as small communities, often lack physical legal infrastructure and experienced legal professionals. The Samvaad Legal Platform can bridge this gap by providing a digital platform that can be accessed by individuals.
 Language Support : Many Tier 2 and Tier 3 cities have diverse linguistic backgrounds. The platform can offer content and support in multiple regional languages, ensuring that language barriers do not hinder access to legal information and services.
 Cost-Effective: Traditional legal services can be expensive. The platform may offer cost-effective or even free resources, reducing the financial burden on individuals seeking legal assistance.
 Consultation Services : For more complex legal issues, the platform can potentially connect users with qualified legal professionals or paralegals who can provide remote consultations. This can be particularly beneficial in areas where there is a shortage of legal practitioners.
 
 
-## 3) What challenges we are going to solve :
+### 3) What challenges we are going to solve :
 Incentives: Figure out ways to encourage legal professionals to offer their services on your platform. This might involve offering them bonuses, rewards, or recognition.
 Transparency and Accountability: Ensure that the services provided by legal professionals are transparent and accountable, meaning they are honest and reliable.
 Quality of Services: Make sure the legal services offered on your platform are of high quality. You want people to get good help.
 Matching Clients and Providers: Help clients easily find the right legal professional for their specific needs. Make the platform user-friendly.
 Accessibility: Make sure that people from all economic backgrounds can use your platform. It should be available to everyone.
 
-## 4) How we are tackling the problems - 
+### 4) How we are tackling the problems - 
 
 Digital Reach: Continuously expand the platform's digital reach to ensure it is accessible to as many people as possible, even in remote areas.
 Education Campaigns: Conduct outreach and education campaigns to promote legal awareness and inform users about the platform's resources.
 User-Friendly Interface: Ensure that the platform's user interface is intuitive and easy to navigate, with step-by-step guides and tutorials.
 Continuous Content Updates: Regularly update the platform's content to reflect changes in laws and regulations.
 
-## 5) Future Prospects - 
+### 5) Future Prospects - 
 The Samvaad Legal Platform has the potential to establish a solid presence and impact in Tier 2 and Tier 3 cities. Its future prospects may include expanded user adoption, partnerships with local governments, legal organizations, and technology enhancements. If it maintains its user-centric approach and addresses evolving needs effectively, it could become a sustainable and widely recognized solution for improving legal access in these regions.
 
 ### 6) References:
